@@ -1,0 +1,15 @@
+PHYTO - KIT COMPLETO PARA GITHUB PAGES
+
+1. Crear repositorio PUBLICO en GitHub con el nombre exacto: CorreoPhyto
+2. Abrir el repositorio y seleccionar Add file > Upload files.
+3. Arrastrar TODOS los archivos y la carpeta assets del contenido de esta carpeta (no la carpeta contenedora).
+4. Confirmar que index.html y Correo_Phyto_Outlook_Corregido.html esten en la raiz, y que assets/ contenga 5 imagenes.
+5. Confirmar la carga con Commit changes.
+6. Settings > Pages > Deploy from a branch > main > /(root) > Save.
+7. Comprobar https://jansv23.github.io/CorreoPhyto/ y https://jansv23.github.io/CorreoPhyto/assets/logo-phyto.jpg
+8. Para enviar: abrir Correo_Phyto_Outlook_Corregido.html en Chrome, Ctrl+A, Ctrl+C, pegar en correo Outlook HTML y enviar prueba a uno mismo.
+
+index.html es para la vista web en Pages (imagenes locales relativas).
+Correo_Phyto_Outlook_Corregido.html usa imagenes con URL publicas completas para pegarlas en Outlook/Gmail.
+Si cambia el usuario o nombre del repositorio, actualizar las URLs https://jansv23.github.io/CorreoPhyto/ en el HTML del correo.
+Las imagenes se publican para que puedan cargarse en los correos; no incluir informacion privada en el repositorio.
