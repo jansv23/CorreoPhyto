@@ -1,8 +1,0 @@
-PLANTILLA OUTLOOK + GMAIL
-
-1. Subí los 5 archivos de assets/ a la carpeta assets de tu repo público CorreoPhyto (manteniendo los nombres).
-2. Verificá que las imágenes abran en https://jansv23.github.io/CorreoPhyto/assets/.
-3. Abrí Correo_Phyto_Outlook_Corregido.html en Chrome, copiá TODO el diseño y pegalo en Outlook (formato HTML).
-4. Enviá una prueba y comprobá botón, imágenes e íconos.
-
-Nota: las imágenes externas pueden estar bloqueadas por el destinatario hasta autorizar su descarga.
